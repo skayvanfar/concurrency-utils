@@ -9,5 +9,8 @@
         <module name="concurrency-utils" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="concurrency-utils" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
